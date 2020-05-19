@@ -1,5 +1,9 @@
 # Personal block website
-# Date 16 May 2020
+# Date 19 May 2020
 # https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
-0.0.0.0 facebook.com
+0.0.0.0 code.yengo.com
+0.0.0.0 cdn.yengo.asia
+0.0.0.0 css.yengo.co
+0.0.0.0 st.yengo.com
+0.0.0.0 adserver.soccersuck.com
